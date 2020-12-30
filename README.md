@@ -1,0 +1,1 @@
+Hello! This is a learning project to test basic HTML and CSS skills by building a replica of the google homepage.
